@@ -26,7 +26,7 @@ function PasoUno({ siguientePaso }) {
         </label>
         <label>
           <input type="radio" name="opciones" value="opcion2" onChange={handleRadioChange} />
-          Opción 2
+          Opción2
         </label>
         <label>
           <input type="radio" name="opciones" value="opcion3" onChange={handleRadioChange} />
